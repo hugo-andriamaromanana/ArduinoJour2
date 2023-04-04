@@ -1,5 +1,3 @@
-/*Afficher sur l’afficheur LCD la valeur suivante : “Hello Word !”*/
-
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
